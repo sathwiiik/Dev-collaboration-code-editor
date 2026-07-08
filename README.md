@@ -1,6 +1,6 @@
-# Code-Sync
+# Dev-collaboration-code-editor
 
-Code-Sync is a collaborative, real-time code editor designed to let developers code together seamlessly. Multiple users can join a workspace room simultaneously using a unique room ID to edit code, manage files, chat, and sketch design systems in real time.
+Dev-collaboration-code-editor is a collaborative, real-time code editor designed to let developers code together seamlessly. Multiple users can join a workspace room simultaneously using a unique room ID to edit code, manage files, chat, and sketch design systems in real time.
 
 ---
 
@@ -40,5 +40,5 @@ Code-Sync is a collaborative, real-time code editor designed to let developers c
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Code-Sync.git](https://github.com/your-username/Code-Sync.git)
-   cd Code-Sync
+   git clone [https://github.com/your-username/Dev-collaboration-code-editor.git](https://github.com/your-username/Dev-collaboration-code-editor.git)
+   cd Dev-collaboration-code-editor
