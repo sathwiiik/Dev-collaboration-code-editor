@@ -33,12 +33,3 @@ Dev-collaboration-code-editor is a collaborative, real-time code editor designed
 - **Docker** - Containerization platform for consistent deployments
 
 ---
-
-## Installation & Setup
-
-### Method 1: Manual Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/Dev-collaboration-code-editor.git](https://github.com/your-username/Dev-collaboration-code-editor.git)
-   cd Dev-collaboration-code-editor
